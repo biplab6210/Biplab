@@ -1,0 +1,1 @@
+export default function Page(){return <div><h1 className="text-3xl font-black">Settings</h1><p className="muted mt-2">This management section is ready for Supabase-backed CRUD.</p><div className="card p-6 mt-6"><h2 className="font-bold">Management area</h2><p className="muted mt-2 text-sm">Configure Supabase and connect this section to the existing schema.</p></div></div>}
